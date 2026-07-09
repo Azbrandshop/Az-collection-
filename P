@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>Az Collection</title>
+</head>
+<body>
+    <h1>Az Collection - Hamari Products</h1>
+    
+    <h3>Mens Tracksuit</h3>
+    <p>Price: 2500 PKR</p>
+
+    <h3>Vivo Mobile</h3>
+    <p>Price: 45000 PKR</p>
+
+    <hr>
+    <p>Order karne ke liye rabta karein: 03474434628</p>
+</body>
+</html>
